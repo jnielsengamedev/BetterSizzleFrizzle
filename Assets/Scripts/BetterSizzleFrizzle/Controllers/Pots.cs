@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
+using BetterSizzleFrizzle.Data;
 using JetBrains.Annotations;
 using UnityEngine;
 
@@ -18,7 +19,7 @@ namespace BetterSizzleFrizzle.Controllers
         [CanBeNull]
         private Pot ReturnEmptyPot()
         {
-            return pots.FirstOrDefault(pot => !pot.containedObject);
+            return pots.FirstOrDefault(pot => !pot.containedObject && pot.type == PotType.Storage);
         }
 
         public static Pots Get()
