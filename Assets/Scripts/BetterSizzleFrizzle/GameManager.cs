@@ -7,7 +7,7 @@ namespace BetterSizzleFrizzle
 {
 	public class GameManager : MonoBehaviour
 	{
-		public Money Money;
+		public static Money Money;
 		private VisualElement _rootElement;
 		private Label _moneyLabel;
 		
