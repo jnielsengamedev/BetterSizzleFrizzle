@@ -1,4 +1,3 @@
-using System;
 using BetterSizzleFrizzle.Data;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -10,7 +9,7 @@ namespace BetterSizzleFrizzle
 		public static Money Money;
 		private VisualElement _rootElement;
 		private Label _moneyLabel;
-		
+
 		private void Awake()
 		{
 			_rootElement = GetComponent<UIDocument>().rootVisualElement;
