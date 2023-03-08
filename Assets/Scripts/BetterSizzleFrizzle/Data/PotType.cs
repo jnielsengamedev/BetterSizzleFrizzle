@@ -2,7 +2,7 @@ namespace BetterSizzleFrizzle.Data
 {
 	public enum PotType
 	{
-		Storage,
+		Clicking,
 		MoneyGaining
 	}
 }

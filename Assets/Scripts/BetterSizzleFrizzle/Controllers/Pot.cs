@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using BetterSizzleFrizzle.Data;
 using UnityEngine;
@@ -8,19 +7,18 @@ namespace BetterSizzleFrizzle.Controllers
 	public class Pot : MonoBehaviour
 	{
 		public PotType type;
-		public GameObject containedObject;
+		public long moneyAmount;
 
 		[Header("Money Gaining Pot Properties")]
-		public bool earningMoney;
+		public bool earningAutoMoney;
 
-		public long moneyAmount;
 		public float secondsToWait;
 
 		private void Awake()
 		{
 			if (type == PotType.MoneyGaining)
 			{
-				earningMoney = true;
+				earningAutoMoney = true;
 			}
 		}
 
@@ -32,29 +30,20 @@ namespace BetterSizzleFrizzle.Controllers
 			}
 		}
 
-		private void Update()
-		{
-			switch (type)
-			{
-				case PotType.Storage:
-					StoragePot();
-					break;
-			}
-		}
-
-		private void StoragePot()
-		{
-			if (!containedObject) return;
-			containedObject.transform.parent = transform;
-			containedObject.transform.position = transform.position;
-		}
-
 		private IEnumerator MoneyPot()
 		{
-			while (earningMoney)
+			while (earningAutoMoney)
 			{
 				GameManager.Money.AddCash(moneyAmount);
 				yield return new WaitForSeconds(secondsToWait);
+			}
+		}
+
+		private void OnMouseDown()
+		{
+			if (type == PotType.Clicking)
+			{
+				GameManager.Money.AddCash(moneyAmount);
 			}
 		}
 	}
