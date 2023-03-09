@@ -131,10 +131,10 @@ TextureImporter:
       name: B to R Upgrade_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
+        x: 48
+        y: 2848
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1f33fe7a6ed6444c947f1e8d0a86043
-      internalID: 977629800
+      spriteID: fa2bf84f5134a6942a4d00925cd150f2
+      internalID: 1150642025
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: B to R Upgrade_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 688
+        y: 2848
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 224e01cea7069c043907152b42f9007b
-      internalID: -242789741
+      spriteID: dc3208d631695fd4794f6fd6189c7f14
+      internalID: -1878149152
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: B to R Upgrade_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
+        x: 1328
+        y: 2848
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b753557808fbc934699c5ac41ee4fbfc
-      internalID: 1193336704
+      spriteID: af352b50337746a4ab1bbf6edd2b4c13
+      internalID: 704784662
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       name: B to R Upgrade_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
+        x: 1968
+        y: 2848
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae3c088ddd76b042a66e20694c909a1
-      internalID: 1368130424
+      spriteID: a89b99e197c80b14abf1c5301796fb65
+      internalID: 1192185008
       vertices: []
       indices: 
       edges: []
@@ -215,10 +215,10 @@ TextureImporter:
       name: B to R Upgrade_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 48
+        y: 2209
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33b0806132a939a4989567b0343993e1
-      internalID: -1468486262
+      spriteID: 276338055d8480f4b85992039a8d3528
+      internalID: -226188783
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
       name: B to R Upgrade_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 688
+        y: 2209
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f978d124b178df840a8b11a771316066
-      internalID: -2048015169
+      spriteID: 98cbc6729394daa47aa186e9db397d73
+      internalID: -1150214910
       vertices: []
       indices: 
       edges: []
@@ -257,10 +257,10 @@ TextureImporter:
       name: B to R Upgrade_6
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 1328
+        y: 2209
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fad9975f261d80d418cef5c05e47d8b1
-      internalID: -623935367
+      spriteID: 61fe64a05ef0d7048bf50ff3e45eda2f
+      internalID: -1906414571
       vertices: []
       indices: 
       edges: []
@@ -278,10 +278,10 @@ TextureImporter:
       name: B to R Upgrade_7
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 1968
+        y: 2209
+        width: 544
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05f7fe587529ea14aac5114d1e6e5bf3
-      internalID: -1325820004
+      spriteID: d0dd324cae879e34e95ea2ffa95d9fc8
+      internalID: 2017436095
       vertices: []
       indices: 
       edges: []
@@ -299,10 +299,10 @@ TextureImporter:
       name: B to R Upgrade_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
+        x: 48
+        y: 1568
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +310,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcdf1f265a587ac44ae16d764e7153df
-      internalID: -829352964
+      spriteID: 1046b07149783e14f93054a18f4baf15
+      internalID: -856410518
       vertices: []
       indices: 
       edges: []
@@ -320,10 +320,10 @@ TextureImporter:
       name: B to R Upgrade_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 688
+        y: 1568
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,8 +331,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 562a8e1d2664654429769cd0660be28a
-      internalID: 338620567
+      spriteID: 86dbb399fa77a9a46bc1c41601867686
+      internalID: -713950791
       vertices: []
       indices: 
       edges: []
@@ -341,10 +341,10 @@ TextureImporter:
       name: B to R Upgrade_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 1328
+        y: 1568
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,8 +352,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65caaa017c04fd641853a556a3caa576
-      internalID: 1195581134
+      spriteID: d82f2e299b41f5e459eaae169cd6ade7
+      internalID: 2000303304
       vertices: []
       indices: 
       edges: []
@@ -362,10 +362,10 @@ TextureImporter:
       name: B to R Upgrade_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 1968
+        y: 1568
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,8 +373,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b830859260ff04e88ee9afe8dc3992
-      internalID: -322107384
+      spriteID: 0b25166add0b2564d9380bb9eb28f1e2
+      internalID: 1980429562
       vertices: []
       indices: 
       edges: []
@@ -383,10 +383,10 @@ TextureImporter:
       name: B to R Upgrade_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 48
+        y: 928
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,8 +394,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89c18a065621e264e8631de6cea265a8
-      internalID: 74442919
+      spriteID: e3201693f54a5ee49892889aa2e5c5a4
+      internalID: -2065427946
       vertices: []
       indices: 
       edges: []
@@ -404,10 +404,10 @@ TextureImporter:
       name: B to R Upgrade_13
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 688
+        y: 928
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,8 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10cb93d771a4a9f4d81a071063c74891
-      internalID: -1360664731
+      spriteID: 3d2cf91de8e064d49987bbf57d769e3c
+      internalID: 1739260571
       vertices: []
       indices: 
       edges: []
@@ -425,10 +425,10 @@ TextureImporter:
       name: B to R Upgrade_14
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 1328
+        y: 928
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,8 +436,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59b068fef5cd02949ba038b4b5b1d192
-      internalID: 171430360
+      spriteID: 0672292eea26a9c478c4006331e8b04f
+      internalID: -661449170
       vertices: []
       indices: 
       edges: []
@@ -446,10 +446,10 @@ TextureImporter:
       name: B to R Upgrade_15
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 1968
+        y: 928
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,8 +457,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55956010215268f46926348920cc4625
-      internalID: -266941761
+      spriteID: 54c07b890a5a23149a747fee0f04ac8d
+      internalID: 222079684
       vertices: []
       indices: 
       edges: []
@@ -467,10 +467,10 @@ TextureImporter:
       name: B to R Upgrade_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 48
+        y: 288
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,8 +478,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176aa6d1b8b9517448697920c90cff34
-      internalID: 2036942574
+      spriteID: 04ff8e0a0efd9ef499e2f5ad5388dd35
+      internalID: -320926256
       vertices: []
       indices: 
       edges: []
@@ -488,10 +488,10 @@ TextureImporter:
       name: B to R Upgrade_17
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 688
+        y: 288
+        width: 544
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,8 +499,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2afa1120ada094340b0e34d014ddeefb
-      internalID: 556067025
+      spriteID: 488c1557fbf1f9d4e8f70e2468178b1b
+      internalID: 1823230603
       vertices: []
       indices: 
       edges: []
@@ -516,24 +516,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      B to R Upgrade_6: -623935367
-      B to R Upgrade_4: -1468486262
-      B to R Upgrade_5: -2048015169
-      B to R Upgrade_9: 338620567
-      B to R Upgrade_17: 556067025
-      B to R Upgrade_13: -1360664731
-      B to R Upgrade_12: 74442919
-      B to R Upgrade_2: 1193336704
-      B to R Upgrade_11: -322107384
-      B to R Upgrade_3: 1368130424
-      B to R Upgrade_1: -242789741
-      B to R Upgrade_7: -1325820004
-      B to R Upgrade_8: -829352964
-      B to R Upgrade_16: 2036942574
-      B to R Upgrade_10: 1195581134
-      B to R Upgrade_14: 171430360
-      B to R Upgrade_0: 977629800
-      B to R Upgrade_15: -266941761
+      B to R Upgrade_6: -1906414571
+      B to R Upgrade_4: -226188783
+      B to R Upgrade_5: -1150214910
+      B to R Upgrade_9: -713950791
+      B to R Upgrade_17: 1823230603
+      B to R Upgrade_13: 1739260571
+      B to R Upgrade_12: -2065427946
+      B to R Upgrade_2: 704784662
+      B to R Upgrade_11: 1980429562
+      B to R Upgrade_3: 1192185008
+      B to R Upgrade_1: -1878149152
+      B to R Upgrade_7: 2017436095
+      B to R Upgrade_8: -856410518
+      B to R Upgrade_16: -320926256
+      B to R Upgrade_10: 2000303304
+      B to R Upgrade_14: -661449170
+      B to R Upgrade_0: 1150642025
+      B to R Upgrade_15: 222079684
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
