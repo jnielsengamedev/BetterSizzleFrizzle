@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29934dfde64a1374d8567006fe784b42
+guid: e66c9dd732b80ff4baf54e34949ccfdc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,91 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red Pot Drop_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 960
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84393a58e1ea00e4c9f2f528e51bf442
-      internalID: 356562276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_1
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 960
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3367f6f07092c504b820d56db9f80407
-      internalID: 28011652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_2
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 960
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4985cace8bd67444f8439940d54ccbde
-      internalID: 1919366266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_3
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 960
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb0b1777d3e03a34994e4dc91fafac06
-      internalID: -1334741505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_4
+      name: Pot (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -226,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fae22d8cfb2148b43ac47703a45d5f11
-      internalID: 708725897
+      spriteID: 49bf983258e6c4d4ab9e6cc4db7502df
+      internalID: -1952440074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Pot Drop_5
+      name: Pot (1)_1
       rect:
         serializedVersion: 2
         x: 320
@@ -247,56 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf5002c5043b13f43ba11dca8bb62faa
-      internalID: 927326683
+      spriteID: 52732e8a76111c04786cd98193e32827
+      internalID: -1613472372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Pot Drop_6
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 640
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f01dc1ac078d0ef4c91bf48e2344783b
-      internalID: 335990205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_7
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 640
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3b27de0da815f84ab038f0a50b04c78
-      internalID: -242865328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_8
+      name: Pot (1)_2
       rect:
         serializedVersion: 2
         x: 0
@@ -310,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d7a1ee96ce93724b98ef0a3a6960327
-      internalID: 1025148077
+      spriteID: f1c3f0b122a958242850164cfe88d674
+      internalID: -1868113892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Pot Drop_9
+      name: Pot (1)_3
       rect:
         serializedVersion: 2
         x: 320
@@ -331,56 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25704fe9a0e4d074ab99f6567eaa675a
-      internalID: -1283567947
+      spriteID: 122338199bf098c42898505181713c52
+      internalID: 740630614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Pot Drop_10
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 320
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b224f91c5367c8b47aff338091501262
-      internalID: -1228038808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_11
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 320
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e85c707f1554cd64f89c2f3697570e58
-      internalID: 788440029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Pot Drop_12
+      name: Pot (1)_4
       rect:
         serializedVersion: 2
         x: 0
@@ -394,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c3d48f1470184e408c9985f2115ea6d
-      internalID: 293230643
+      spriteID: f1c49e7464d29b34daf0f4a66e9747ae
+      internalID: -1471771990
       vertices: []
       indices: 
       edges: []
@@ -411,19 +243,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Red Pot Drop_12: 293230643
-      Red Pot Drop_0: 356562276
-      Red Pot Drop_8: 1025148077
-      Red Pot Drop_6: 335990205
-      Red Pot Drop_7: -242865328
-      Red Pot Drop_3: -1334741505
-      Red Pot Drop_1: 28011652
-      Red Pot Drop_2: 1919366266
-      Red Pot Drop_9: -1283567947
-      Red Pot Drop_4: 708725897
-      Red Pot Drop_11: 788440029
-      Red Pot Drop_5: 927326683
-      Red Pot Drop_10: -1228038808
+      Pot (1)_0: -1952440074
+      Pot (1)_4: -1471771990
+      Pot (1)_3: 740630614
+      Pot (1)_1: -1613472372
+      Pot (1)_2: -1868113892
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
