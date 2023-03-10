@@ -29,6 +29,24 @@ namespace BetterSizzleFrizzle.Controllers
 			_rainbow.clicked += Rainbow;
 		}
 
+		private void OnDestroy()
+		{
+			UnattachButtons();
+		}
+
+		/// <summary>
+		/// This method un-attaches the methods from the function when the Scene gets destroyed. So this is when
+		/// you go to the Main Menu and stuff. Don't touch this method unless you know what you're doing.
+		/// </summary>
+		private void UnattachButtons()
+		{
+			_red.clicked -= Red;
+			_purple.clicked -= Purple;
+			_blue.clicked -= Blue;
+			_emptySlot.clicked -= EmptySlot;
+			_rainbow.clicked -= Rainbow;
+		}
+
 		/// <summary>
 		/// Put code that you want to execute for the button by the Red pot.
 		/// </summary>
