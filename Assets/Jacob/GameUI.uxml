@@ -1,0 +1,22 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/UI.uss?fileID=7433441132597879392&amp;guid=3721643a953249c79abe5d3967a0ad03&amp;type=3#UI" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement style="flex-direction: row; flex-wrap: nowrap; position: absolute; bottom: 0; left: 0; right: 1px;">
+            <ui:VisualElement style="margin-left: 13%;">
+                <ui:Button text="Button" display-tooltip-when-elided="true" name="Red" class="button" />
+            </ui:VisualElement>
+            <ui:VisualElement style="margin-left: 8.5%;">
+                <ui:Button text="Button" display-tooltip-when-elided="true" name="Purple" class="button" />
+            </ui:VisualElement>
+            <ui:VisualElement style="margin-left: 8%;">
+                <ui:Button text="Button" display-tooltip-when-elided="true" name="Blue" class="button" />
+            </ui:VisualElement>
+            <ui:VisualElement style="margin-left: 9%;">
+                <ui:Button text="Button" display-tooltip-when-elided="true" name="EmptySlot" class="button" />
+            </ui:VisualElement>
+            <ui:VisualElement style="margin-left: 8%;">
+                <ui:Button text="Button" display-tooltip-when-elided="true" name="Rainbow" class="button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
